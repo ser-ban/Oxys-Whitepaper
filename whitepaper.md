@@ -1,8 +1,8 @@
-# ICE DEX: Decentralized Exchange Interface for TON Blockchain
+# OXYS DEX: Decentralized Exchange Interface for TON Blockchain
 
 ## Abstract
 
-ICE DEX is a decentralized exchange interface built on the TON blockchain that integrates with Ston.fi's API and SDK for liquidity and trading functionality. The platform provides a user-friendly interface for token swaps, liquidity provision, and pool management, leveraging established infrastructure while focusing on accessibility and ease of use.
+Oxys is a decentralized exchange interface built on the TON blockchain that integrates with Ston.fi's API and SDK for liquidity and trading functionality. The platform provides a user-friendly interface for token swaps, liquidity provision, and pool management, leveraging established infrastructure while focusing on accessibility and ease of use.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ ICE DEX is a decentralized exchange interface built on the TON blockchain that i
 
 ## 1. Introduction
 
-ICE DEX serves as a frontend interface for decentralized trading on the TON blockchain. Rather than implementing custom smart contracts, the platform integrates with established protocols and APIs to provide reliable trading functionality while focusing on delivering an intuitive user experience.
+Oxys serves as a frontend interface for decentralized trading on the TON blockchain. Rather than implementing custom smart contracts, the platform integrates with established protocols and APIs to provide reliable trading functionality while focusing on delivering an intuitive user experience.
 
 ## 2. Technical Architecture
 
@@ -220,6 +220,6 @@ graph TB
 
 ## Conclusion
 
-ICE DEX provides a user-friendly interface for decentralized trading on the TON blockchain by leveraging established infrastructure and APIs. The platform focuses on providing a seamless user experience while maintaining security and reliability through integration with trusted protocols and services.
+Oxys provides a user-friendly interface for decentralized trading on the TON blockchain by leveraging established infrastructure and APIs. The platform focuses on providing a seamless user experience while maintaining security and reliability through integration with trusted protocols and services.
 
 The interface serves as a gateway to decentralized finance on TON, making complex DeFi operations accessible to users through an intuitive interface while relying on battle-tested backend services and APIs for core functionality.
